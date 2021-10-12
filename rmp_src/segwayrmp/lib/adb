@@ -1,0 +1,1502 @@
+[Trace] adb/gHostIapProtocol: -Verbose [3066.427410s] IAP Start!  path:/sdcard/firmware/central.bin   id: 38  version:2CCA0DC6
+
+[Trace] adb/gHostIapProtocol: -Verbose [3066.428558s] HostIapStart: Iap Start:
+
+[Trace] adb/gHostIapProtocol: -Verbose [3066.429859s] HostIapStart: Number of bins: 1
+
+[Trace] adb/gHostIapProtocol: -Verbose [3066.529951s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3066.668885s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3066.809995s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3066.956673s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3067.090606s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3067.236080s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3067.366187s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3067.503518s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3067.605364s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3067.706001s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3067.849150s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3067.991621s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3068.136423s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3068.278344s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3068.454160s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3068.596793s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3068.730913s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3068.870573s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3069.001866s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3069.133651s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3069.271790s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3069.412210s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3069.554507s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3069.689366s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3069.825145s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3069.964009s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3070.123871s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3070.235766s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3070.362494s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3070.509044s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3070.648774s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3070.783215s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3070.916551s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3071.048688s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3071.178838s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3071.312444s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3071.447660s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3071.586170s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3071.731795s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3071.877976s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3072.009566s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3072.135555s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3072.284827s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3072.415087s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3072.553078s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3072.685832s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3072.865803s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3073.042305s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3073.170563s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3073.311525s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Verbose [3073.441889s] Id:0x38   Iap Progress   0: 
+
+[Trace] adb/gHostIapProtocol: -Error [3073.468617s] AP Fail Start Timeout
+
+[Trace] adb/gHostIapProtocol: -Fatal [3073.478471s] HostIapStart: Iap Fail!
+
+2264760
+
+[Trace] adb/gComuCore: -Verbose [3064.786791s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912264760
+
+[Trace] adb/gComuCore: -Verbose [3064.786991s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912264760
+
+[Trace] adb/gComuCore: -Verbose [3064.787233s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912264760
+
+[Trace] adb/gComuCore: -Verbose [3064.826502s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912264760
+
+[Trace] adb/gComuCore: -Verbose [3064.826639s] SysTimestamp:1618912264760
+
+[Trace] adb/gComuCore: -Verbose [3064.827309s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3064.914696s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912264914
+
+[Trace] adb/gComuCore: -Verbose [3064.915007s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912264914
+
+[Trace] adb/gComuCore: -Verbose [3064.915293s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912264914
+
+[Trace] adb/gComuCore: -Verbose [3064.915878s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912264914
+
+[Trace] adb/gComuCore: -Verbose [3064.940899s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912264914
+
+[Trace] adb/gComuCore: -Verbose [3064.958080s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912264914
+
+[Trace] adb/gComuCore: -Verbose [3064.958793s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912264914
+
+[Trace] adb/gComuCore: -Verbose [3064.959339s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912264914
+
+[Trace] adb/gComuCore: -Verbose [3064.959532s] SysTimestamp:1618912264914
+
+[Trace] adb/gComuCore: -Verbose [3064.959761s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3065.047196s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912265047
+
+[Trace] adb/gComuCore: -Verbose [3065.047410s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912265047
+
+[Trace] adb/gComuCore: -Verbose [3065.047559s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912265047
+
+[Trace] adb/gComuCore: -Verbose [3065.047681s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912265047
+
+[Trace] adb/gComuCore: -Verbose [3065.048736s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912265047
+
+[Trace] adb/gComuCore: -Verbose [3065.064230s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912265047
+
+[Trace] adb/gComuCore: -Verbose [3065.086287s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912265047
+
+[Trace] adb/gComuCore: -Verbose [3065.087051s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912265047
+
+[Trace] adb/gComuCore: -Verbose [3065.088185s] SysTimestamp:1618912265047
+
+[Trace] adb/gComuCore: -Verbose [3065.088506s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3065.139760s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912265139
+
+[Trace] adb/gComuCore: -Verbose [3065.165189s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912265139
+
+[Trace] adb/gComuCore: -Verbose [3065.165451s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912265139
+
+[Trace] adb/gComuCore: -Verbose [3065.166306s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912265139
+
+[Trace] adb/gComuCore: -Verbose [3065.169016s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912265139
+
+[Trace] adb/gComuCore: -Verbose [3065.204579s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912265139
+
+[Trace] adb/gComuCore: -Verbose [3065.204747s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912265139
+
+[Trace] adb/gComuCore: -Verbose [3065.205034s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912265139
+
+[Trace] adb/gComuCore: -Verbose [3065.206433s] SysTimestamp:1618912265139
+
+[Trace] adb/gComuCore: -Verbose [3065.206695s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3065.261143s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912265261
+
+[Trace] adb/gComuCore: -Verbose [3065.285026s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912265261
+
+[Trace] adb/gComuCore: -Verbose [3065.285195s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912265261
+
+[Trace] adb/gComuCore: -Verbose [3065.285451s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912265261
+
+[Trace] adb/gComuCore: -Verbose [3065.286699s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912265261
+
+[Trace] adb/gComuCore: -Verbose [3065.286923s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912265261
+
+[Trace] adb/gComuCore: -Verbose [3065.287256s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912265261
+
+[Trace] adb/gComuCore: -Verbose [3065.322691s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912265261
+
+[Trace] adb/gComuCore: -Verbose [3065.322939s] SysTimestamp:1618912265261
+
+[Trace] adb/gComuCore: -Verbose [3065.323086s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3065.377722s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912265377
+
+[Trace] adb/gComuCore: -Verbose [3065.397381s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912265377
+
+[Trace] adb/gComuCore: -Verbose [3065.397554s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912265377
+
+[Trace] adb/gComuCore: -Verbose [3065.398320s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912265377
+
+[Trace] adb/gComuCore: -Verbose [3065.398945s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912265377
+
+[Trace] adb/gComuCore: -Verbose [3065.399164s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912265377
+
+[Trace] adb/gComuCore: -Verbose [3065.399374s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912265377
+
+[Trace] adb/gComuCore: -Verbose [3065.437795s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912265377
+
+[Trace] adb/gComuCore: -Verbose [3065.437914s] SysTimestamp:1618912265377
+
+[Trace] adb/gComuCore: -Verbose [3065.438026s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3065.490607s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912265490
+
+[Trace] adb/gComuCore: -Verbose [3065.490788s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912265490
+
+[Trace] adb/gComuCore: -Verbose [3065.490915s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912265490
+
+[Trace] adb/gComuCore: -Verbose [3065.491558s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912265490
+
+[Trace] adb/gComuCore: -Verbose [3065.529694s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912265490
+
+[Trace] adb/gComuCore: -Verbose [3065.532620s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912265490
+
+[Trace] adb/gComuCore: -Verbose [3065.533792s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912265490
+
+[Trace] adb/gComuCore: -Verbose [3065.533977s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912265490
+
+[Trace] adb/gComuCore: -Verbose [3065.534160s] SysTimestamp:1618912265490
+
+[Trace] adb/gComuCore: -Verbose [3065.571353s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3065.621979s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912265621
+
+[Trace] adb/gComuCore: -Verbose [3065.622393s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912265621
+
+[Trace] adb/gComuCore: -Verbose [3065.622793s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912265621
+
+[Trace] adb/gComuCore: -Verbose [3065.622973s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912265621
+
+[Trace] adb/gComuCore: -Verbose [3065.623160s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912265621
+
+[Trace] adb/gComuCore: -Verbose [3065.658943s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912265621
+
+[Trace] adb/gComuCore: -Verbose [3065.659128s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912265621
+
+[Trace] adb/gComuCore: -Verbose [3065.660127s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912265621
+
+[Trace] adb/gComuCore: -Verbose [3065.660344s] SysTimestamp:1618912265621
+
+[Trace] adb/gComuCore: -Verbose [3065.660500s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3065.710865s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912265710
+
+[Trace] adb/gComuCore: -Verbose [3065.737013s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912265710
+
+[Trace] adb/gComuCore: -Verbose [3065.737227s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912265710
+
+[Trace] adb/gComuCore: -Verbose [3065.737981s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912265710
+
+[Trace] adb/gComuCore: -Verbose [3065.738600s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912265710
+
+[Trace] adb/gComuCore: -Verbose [3065.738830s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912265710
+
+[Trace] adb/gComuCore: -Verbose [3065.738985s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912265710
+
+[Trace] adb/gComuCore: -Verbose [3065.739183s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912265710
+
+[Trace] adb/gComuCore: -Verbose [3065.774033s] SysTimestamp:1618912265710
+
+[Trace] adb/gComuCore: -Verbose [3065.774200s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3065.828835s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912265828
+
+[Trace] adb/gComuCore: -Verbose [3065.829075s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912265828
+
+[Trace] adb/gComuCore: -Verbose [3065.829247s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912265828
+
+[Trace] adb/gComuCore: -Verbose [3065.829451s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912265828
+
+[Trace] adb/gComuCore: -Verbose [3065.829637s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912265828
+
+[Trace] adb/gComuCore: -Verbose [3065.866116s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912265828
+
+[Trace] adb/gComuCore: -Verbose [3065.866333s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912265828
+
+[Trace] adb/gComuCore: -Verbose [3065.867122s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912265828
+
+[Trace] adb/gComuCore: -Verbose [3065.867639s] SysTimestamp:1618912265828
+
+[Trace] adb/gComuCore: -Verbose [3065.868483s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3065.954220s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912265954
+
+[Trace] adb/gComuCore: -Verbose [3065.954404s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912265954
+
+[Trace] adb/gComuCore: -Verbose [3065.954536s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912265954
+
+[Trace] adb/gComuCore: -Verbose [3065.954664s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912265954
+
+[Trace] adb/gComuCore: -Verbose [3065.955493s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912265954
+
+[Trace] adb/gComuCore: -Verbose [3065.992057s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912265954
+
+[Trace] adb/gComuCore: -Verbose [3065.993272s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912265954
+
+[Trace] adb/gComuCore: -Verbose [3065.994148s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912265954
+
+[Trace] adb/gComuCore: -Verbose [3065.994779s] SysTimestamp:1618912265954
+
+[Trace] adb/gComuCore: -Verbose [3065.996199s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3066.047116s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912266047
+
+[Trace] adb/gComuCore: -Verbose [3066.072472s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912266047
+
+[Trace] adb/gComuCore: -Verbose [3066.072664s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912266047
+
+[Trace] adb/gComuCore: -Verbose [3066.072888s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912266047
+
+[Trace] adb/gComuCore: -Verbose [3066.073181s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912266047
+
+[Trace] adb/gComuCore: -Verbose [3066.074713s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912266047
+
+[Trace] adb/gComuCore: -Verbose [3066.112158s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912266047
+
+[Trace] adb/gComuCore: -Verbose [3066.112374s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912266047
+
+[Trace] adb/gComuCore: -Verbose [3066.112986s] SysTimestamp:1618912266047
+
+[Trace] adb/gComuCore: -Verbose [3066.150620s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3066.202368s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912266202
+
+[Trace] adb/gComuCore: -Verbose [3066.202570s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912266202
+
+[Trace] adb/gComuCore: -Verbose [3066.202731s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912266202
+
+[Trace] adb/gComuCore: -Verbose [3066.202879s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912266202
+
+[Trace] adb/gComuCore: -Verbose [3066.202975s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912266202
+
+[Trace] adb/gComuCore: -Verbose [3066.238615s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912266202
+
+[Trace] adb/gComuCore: -Verbose [3066.239389s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912266202
+
+[Trace] adb/gComuCore: -Verbose [3066.240827s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912266202
+
+[Trace] adb/gComuCore: -Verbose [3066.276937s] SysTimestamp:1618912266202
+
+[Trace] adb/gComuCore: -Verbose [3066.277077s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3066.330537s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912266330
+
+[Trace] adb/gComuCore: -Verbose [3066.348710s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912266330
+
+[Trace] adb/gComuCore: -Verbose [3066.348897s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912266330
+
+[Trace] adb/gComuCore: -Verbose [3066.349712s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912266330
+
+[Trace] adb/gComuCore: -Verbose [3066.388369s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912266330
+
+[Trace] adb/gComuCore: -Verbose [3066.388523s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912266330
+
+[Trace] adb/gComuCore: -Verbose [3066.389309s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912266330
+
+[Trace] adb/gComuCore: -Verbose [3066.389636s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912266330
+
+[Trace] adb/gComuCore: -Verbose [3066.427572s] SysTimestamp:1618912266330
+
+[Trace] adb/gComuCore: -Verbose [3066.430573s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3066.487533s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912266487
+
+[Trace] adb/gComuCore: -Verbose [3066.517278s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912266487
+
+[Trace] adb/gComuCore: -Verbose [3066.517478s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912266487
+
+[Trace] adb/gComuCore: -Verbose [3066.518327s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912266487
+
+[Trace] adb/gComuCore: -Verbose [3066.519007s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912266487
+
+[Trace] adb/gComuCore: -Verbose [3066.519252s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912266487
+
+[Trace] adb/gComuCore: -Verbose [3066.519442s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912266487
+
+[Trace] adb/gComuCore: -Verbose [3066.519681s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912266487
+
+[Trace] adb/gComuCore: -Verbose [3066.567528s] SysTimestamp:1618912266487
+
+[Trace] adb/gComuCore: -Verbose [3066.567921s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3066.622813s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912266622
+
+[Trace] adb/gComuCore: -Verbose [3066.623081s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912266622
+
+[Trace] adb/gComuCore: -Verbose [3066.623292s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912266622
+
+[Trace] adb/gComuCore: -Verbose [3066.624069s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912266622
+
+[Trace] adb/gComuCore: -Verbose [3066.660741s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912266622
+
+[Trace] adb/gComuCore: -Verbose [3066.660887s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912266622
+
+[Trace] adb/gComuCore: -Verbose [3066.661052s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912266622
+
+[Trace] adb/gComuCore: -Verbose [3066.661932s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912266622
+
+[Trace] adb/gComuCore: -Verbose [3066.662651s] SysTimestamp:1618912266622
+
+[Trace] adb/gComuCore: -Verbose [3066.708526s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3066.759982s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912266759
+
+[Trace] adb/gComuCore: -Verbose [3066.760467s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912266759
+
+[Trace] adb/gComuCore: -Verbose [3066.760883s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912266759
+
+[Trace] adb/gComuCore: -Verbose [3066.761015s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912266759
+
+[Trace] adb/gComuCore: -Verbose [3066.761359s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912266759
+
+[Trace] adb/gComuCore: -Verbose [3066.763411s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912266759
+
+[Trace] adb/gComuCore: -Verbose [3066.782982s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912266759
+
+[Trace] adb/gComuCore: -Verbose [3066.803549s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912266759
+
+[Trace] adb/gComuCore: -Verbose [3066.804328s] SysTimestamp:1618912266759
+
+[Trace] adb/gComuCore: -Verbose [3066.805583s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3066.856473s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912266856
+
+[Trace] adb/gComuCore: -Verbose [3066.856673s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912266856
+
+[Trace] adb/gComuCore: -Verbose [3066.857472s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912266856
+
+[Trace] adb/gComuCore: -Verbose [3066.899285s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912266856
+
+[Trace] adb/gComuCore: -Verbose [3066.899477s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912266856
+
+[Trace] adb/gComuCore: -Verbose [3066.899738s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912266856
+
+[Trace] adb/gComuCore: -Verbose [3066.901102s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912266856
+
+[Trace] adb/gComuCore: -Verbose [3066.901361s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912266856
+
+[Trace] adb/gComuCore: -Verbose [3066.901597s] SysTimestamp:1618912266856
+
+[Trace] adb/gComuCore: -Verbose [3066.941699s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3066.992130s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912266992
+
+[Trace] adb/gComuCore: -Verbose [3067.036284s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912266992
+
+[Trace] adb/gComuCore: -Verbose [3067.036493s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912266992
+
+[Trace] adb/gComuCore: -Verbose [3067.037611s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912266992
+
+[Trace] adb/gComuCore: -Verbose [3067.038035s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912266992
+
+[Trace] adb/gComuCore: -Verbose [3067.038846s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912266992
+
+[Trace] adb/gComuCore: -Verbose [3067.039419s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912266992
+
+[Trace] adb/gComuCore: -Verbose [3067.040659s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912266992
+
+[Trace] adb/gComuCore: -Verbose [3067.082891s] SysTimestamp:1618912266992
+
+[Trace] adb/gComuCore: -Verbose [3067.083115s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3067.134156s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912267134
+
+[Trace] adb/gComuCore: -Verbose [3067.135445s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912267134
+
+[Trace] adb/gComuCore: -Verbose [3067.176970s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912267134
+
+[Trace] adb/gComuCore: -Verbose [3067.177151s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912267134
+
+[Trace] adb/gComuCore: -Verbose [3067.178038s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912267134
+
+[Trace] adb/gComuCore: -Verbose [3067.179844s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912267134
+
+[Trace] adb/gComuCore: -Verbose [3067.217944s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912267134
+
+[Trace] adb/gComuCore: -Verbose [3067.218160s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912267134
+
+[Trace] adb/gComuCore: -Verbose [3067.220696s] SysTimestamp:1618912267134
+
+[Trace] adb/gComuCore: -Verbose [3067.221643s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3067.272466s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912267272
+
+[Trace] adb/gComuCore: -Verbose [3067.311537s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912267272
+
+[Trace] adb/gComuCore: -Verbose [3067.311661s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912267272
+
+[Trace] adb/gComuCore: -Verbose [3067.312479s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912267272
+
+[Trace] adb/gComuCore: -Verbose [3067.313186s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912267272
+
+[Trace] adb/gComuCore: -Verbose [3067.354553s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912267272
+
+[Trace] adb/gComuCore: -Verbose [3067.354767s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912267272
+
+[Trace] adb/gComuCore: -Verbose [3067.355535s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912267272
+
+[Trace] adb/gComuCore: -Verbose [3067.356201s] SysTimestamp:1618912267272
+
+[Trace] adb/gComuCore: -Verbose [3067.356411s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3067.407077s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912267407
+
+[Trace] adb/gComuCore: -Verbose [3067.448062s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912267407
+
+[Trace] adb/gComuCore: -Verbose [3067.448299s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912267407
+
+[Trace] adb/gComuCore: -Verbose [3067.448645s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912267407
+
+[Trace] adb/gComuCore: -Verbose [3067.449712s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912267407
+
+[Trace] adb/gComuCore: -Verbose [3067.449830s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912267407
+
+[Trace] adb/gComuCore: -Verbose [3067.449938s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912267407
+
+[Trace] adb/gComuCore: -Verbose [3067.450310s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912267407
+
+[Trace] adb/gComuCore: -Verbose [3067.490776s] SysTimestamp:1618912267407
+
+[Trace] adb/gComuCore: -Verbose [3067.491030s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3067.541982s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912267541
+
+[Trace] adb/gComuCore: -Verbose [3067.556313s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912267541
+
+[Trace] adb/gComuCore: -Verbose [3067.556678s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912267541
+
+[Trace] adb/gComuCore: -Verbose [3067.556927s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912267541
+
+[Trace] adb/gComuCore: -Verbose [3067.558427s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912267541
+
+[Trace] adb/gComuCore: -Verbose [3067.563337s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912267541
+
+[Trace] adb/gComuCore: -Verbose [3067.564096s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912267541
+
+[Trace] adb/gComuCore: -Verbose [3067.564756s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912267541
+
+[Trace] adb/gComuCore: -Verbose [3067.605599s] SysTimestamp:1618912267541
+
+[Trace] adb/gComuCore: -Verbose [3067.606508s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3067.658055s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912267658
+
+[Trace] adb/gComuCore: -Verbose [3067.697976s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912267658
+
+[Trace] adb/gComuCore: -Verbose [3067.698225s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912267658
+
+[Trace] adb/gComuCore: -Verbose [3067.698402s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912267658
+
+[Trace] adb/gComuCore: -Verbose [3067.699355s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912267658
+
+[Trace] adb/gComuCore: -Verbose [3067.700207s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912267658
+
+[Trace] adb/gComuCore: -Verbose [3067.746986s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912267658
+
+[Trace] adb/gComuCore: -Verbose [3067.747197s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912267658
+
+[Trace] adb/gComuCore: -Verbose [3067.747951s] SysTimestamp:1618912267658
+
+[Trace] adb/gComuCore: -Verbose [3067.790316s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3067.841589s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912267841
+
+[Trace] adb/gComuCore: -Verbose [3067.842236s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912267841
+
+[Trace] adb/gComuCore: -Verbose [3067.842544s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912267841
+
+[Trace] adb/gComuCore: -Verbose [3067.842682s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912267841
+
+[Trace] adb/gComuCore: -Verbose [3067.842933s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912267841
+
+[Trace] adb/gComuCore: -Verbose [3067.890803s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912267841
+
+[Trace] adb/gComuCore: -Verbose [3067.891914s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912267841
+
+[Trace] adb/gComuCore: -Verbose [3067.892745s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912267841
+
+[Trace] adb/gComuCore: -Verbose [3067.933078s] SysTimestamp:1618912267841
+
+[Trace] adb/gComuCore: -Verbose [3067.933234s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3067.984385s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912267984
+
+[Trace] adb/gComuCore: -Verbose [3067.984638s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912267984
+
+[Trace] adb/gComuCore: -Verbose [3067.984833s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912267984
+
+[Trace] adb/gComuCore: -Verbose [3067.985033s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912267984
+
+[Trace] adb/gComuCore: -Verbose [3068.035732s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912267984
+
+[Trace] adb/gComuCore: -Verbose [3068.036818s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912267984
+
+[Trace] adb/gComuCore: -Verbose [3068.038118s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912267984
+
+[Trace] adb/gComuCore: -Verbose [3068.080379s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912267984
+
+[Trace] adb/gComuCore: -Verbose [3068.080587s] SysTimestamp:1618912267984
+
+[Trace] adb/gComuCore: -Verbose [3068.080746s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3068.131114s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912268131
+
+[Trace] adb/gComuCore: -Verbose [3068.131387s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912268131
+
+[Trace] adb/gComuCore: -Verbose [3068.131606s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912268131
+
+[Trace] adb/gComuCore: -Verbose [3068.132447s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912268131
+
+[Trace] adb/gComuCore: -Verbose [3068.169570s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912268131
+
+[Trace] adb/gComuCore: -Verbose [3068.179072s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912268131
+
+[Trace] adb/gComuCore: -Verbose [3068.181546s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912268131
+
+[Trace] adb/gComuCore: -Verbose [3068.182217s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912268131
+
+[Trace] adb/gComuCore: -Verbose [3068.183079s] SysTimestamp:1618912268131
+
+[Trace] adb/gComuCore: -Verbose [3068.223813s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3068.274587s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912268274
+
+[Trace] adb/gComuCore: -Verbose [3068.306072s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912268274
+
+[Trace] adb/gComuCore: -Verbose [3068.306237s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912268274
+
+[Trace] adb/gComuCore: -Verbose [3068.307765s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912268274
+
+[Trace] adb/gComuCore: -Verbose [3068.308275s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912268274
+
+[Trace] adb/gComuCore: -Verbose [3068.308587s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912268274
+
+[Trace] adb/gComuCore: -Verbose [3068.308725s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912268274
+
+[Trace] adb/gComuCore: -Verbose [3068.308853s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912268274
+
+[Trace] adb/gComuCore: -Verbose [3068.309136s] SysTimestamp:1618912268274
+
+[Trace] adb/gComuCore: -Verbose [3068.309791s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3068.404214s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912268404
+
+[Trace] adb/gComuCore: -Verbose [3068.404511s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912268404
+
+[Trace] adb/gComuCore: -Verbose [3068.404717s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912268404
+
+[Trace] adb/gComuCore: -Verbose [3068.404864s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912268404
+
+[Trace] adb/gComuCore: -Verbose [3068.405000s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912268404
+
+[Trace] adb/gComuCore: -Verbose [3068.445681s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912268404
+
+[Trace] adb/gComuCore: -Verbose [3068.445930s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912268404
+
+[Trace] adb/gComuCore: -Verbose [3068.446074s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912268404
+
+[Trace] adb/gComuCore: -Verbose [3068.446190s] SysTimestamp:1618912268404
+
+[Trace] adb/gComuCore: -Verbose [3068.447899s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3068.498556s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912268498
+
+[Trace] adb/gComuCore: -Verbose [3068.542340s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912268498
+
+[Trace] adb/gComuCore: -Verbose [3068.542644s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912268498
+
+[Trace] adb/gComuCore: -Verbose [3068.542787s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912268498
+
+[Trace] adb/gComuCore: -Verbose [3068.542956s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912268498
+
+[Trace] adb/gComuCore: -Verbose [3068.543153s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912268498
+
+[Trace] adb/gComuCore: -Verbose [3068.544418s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912268498
+
+[Trace] adb/gComuCore: -Verbose [3068.583304s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912268498
+
+[Trace] adb/gComuCore: -Verbose [3068.584523s] SysTimestamp:1618912268498
+
+[Trace] adb/gComuCore: -Verbose [3068.585238s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3068.680243s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912268680
+
+[Trace] adb/gComuCore: -Verbose [3068.680988s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912268680
+
+[Trace] adb/gComuCore: -Verbose [3068.681390s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912268680
+
+[Trace] adb/gComuCore: -Verbose [3068.681750s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912268680
+
+[Trace] adb/gComuCore: -Verbose [3068.720809s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912268680
+
+[Trace] adb/gComuCore: -Verbose [3068.720982s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912268680
+
+[Trace] adb/gComuCore: -Verbose [3068.721329s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912268680
+
+[Trace] adb/gComuCore: -Verbose [3068.721544s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912268680
+
+[Trace] adb/gComuCore: -Verbose [3068.722455s] SysTimestamp:1618912268680
+
+[Trace] adb/gComuCore: -Verbose [3068.723129s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3068.805377s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912268805
+
+[Trace] adb/gComuCore: -Verbose [3068.812445s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912268805
+
+[Trace] adb/gComuCore: -Verbose [3068.812662s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912268805
+
+[Trace] adb/gComuCore: -Verbose [3068.813419s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912268805
+
+[Trace] adb/gComuCore: -Verbose [3068.853519s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912268805
+
+[Trace] adb/gComuCore: -Verbose [3068.853771s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912268805
+
+[Trace] adb/gComuCore: -Verbose [3068.853922s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912268805
+
+[Trace] adb/gComuCore: -Verbose [3068.855217s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912268805
+
+[Trace] adb/gComuCore: -Verbose [3068.855380s] SysTimestamp:1618912268805
+
+[Trace] adb/gComuCore: -Verbose [3068.855565s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3068.905924s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912268905
+
+[Trace] adb/gComuCore: -Verbose [3068.945776s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912268905
+
+[Trace] adb/gComuCore: -Verbose [3068.946131s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912268905
+
+[Trace] adb/gComuCore: -Verbose [3068.946274s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912268905
+
+[Trace] adb/gComuCore: -Verbose [3068.947770s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912268905
+
+[Trace] adb/gComuCore: -Verbose [3068.947992s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912268905
+
+[Trace] adb/gComuCore: -Verbose [3068.948198s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912268905
+
+[Trace] adb/gComuCore: -Verbose [3068.948413s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912268905
+
+[Trace] adb/gComuCore: -Verbose [3068.987152s] SysTimestamp:1618912268905
+
+[Trace] adb/gComuCore: -Verbose [3068.987349s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3069.039817s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912269039
+
+[Trace] adb/gComuCore: -Verbose [3069.081272s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912269039
+
+[Trace] adb/gComuCore: -Verbose [3069.081504s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912269039
+
+[Trace] adb/gComuCore: -Verbose [3069.082816s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912269039
+
+[Trace] adb/gComuCore: -Verbose [3069.083028s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912269039
+
+[Trace] adb/gComuCore: -Verbose [3069.115471s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912269039
+
+[Trace] adb/gComuCore: -Verbose [3069.122842s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912269039
+
+[Trace] adb/gComuCore: -Verbose [3069.123765s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912269039
+
+[Trace] adb/gComuCore: -Verbose [3069.124944s] SysTimestamp:1618912269039
+
+[Trace] adb/gComuCore: -Verbose [3069.125211s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3069.221570s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912269221
+
+[Trace] adb/gComuCore: -Verbose [3069.221923s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912269221
+
+[Trace] adb/gComuCore: -Verbose [3069.222246s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912269221
+
+[Trace] adb/gComuCore: -Verbose [3069.222624s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912269221
+
+[Trace] adb/gComuCore: -Verbose [3069.233059s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912269221
+
+[Trace] adb/gComuCore: -Verbose [3069.264610s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912269221
+
+[Trace] adb/gComuCore: -Verbose [3069.265219s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912269221
+
+[Trace] adb/gComuCore: -Verbose [3069.311323s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912269221
+
+[Trace] adb/gComuCore: -Verbose [3069.312168s] SysTimestamp:1618912269221
+
+[Trace] adb/gComuCore: -Verbose [3069.312824s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3069.405607s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912269405
+
+[Trace] adb/gComuCore: -Verbose [3069.406291s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912269405
+
+[Trace] adb/gComuCore: -Verbose [3069.406759s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912269405
+
+[Trace] adb/gComuCore: -Verbose [3069.407485s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912269405
+
+[Trace] adb/gComuCore: -Verbose [3069.407607s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912269405
+
+[Trace] adb/gComuCore: -Verbose [3069.453386s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912269405
+
+[Trace] adb/gComuCore: -Verbose [3069.453670s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912269405
+
+[Trace] adb/gComuCore: -Verbose [3069.455089s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912269405
+
+[Trace] adb/gComuCore: -Verbose [3069.455261s] SysTimestamp:1618912269405
+
+[Trace] adb/gComuCore: -Verbose [3069.455482s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3069.507593s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912269507
+
+[Trace] adb/gComuCore: -Verbose [3069.535963s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912269507
+
+[Trace] adb/gComuCore: -Verbose [3069.536119s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912269507
+
+[Trace] adb/gComuCore: -Verbose [3069.536868s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912269507
+
+[Trace] adb/gComuCore: -Verbose [3069.538696s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912269507
+
+[Trace] adb/gComuCore: -Verbose [3069.539168s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912269507
+
+[Trace] adb/gComuCore: -Verbose [3069.539316s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912269507
+
+[Trace] adb/gComuCore: -Verbose [3069.539535s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912269507
+
+[Trace] adb/gComuCore: -Verbose [3069.539707s] SysTimestamp:1618912269507
+
+[Trace] adb/gComuCore: -Verbose [3069.581995s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3069.634277s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912269634
+
+[Trace] adb/gComuCore: -Verbose [3069.636881s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912269634
+
+[Trace] adb/gComuCore: -Verbose [3069.637118s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912269634
+
+[Trace] adb/gComuCore: -Verbose [3069.637474s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912269634
+
+[Trace] adb/gComuCore: -Verbose [3069.638319s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912269634
+
+[Trace] adb/gComuCore: -Verbose [3069.638917s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912269634
+
+[Trace] adb/gComuCore: -Verbose [3069.677564s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912269634
+
+[Trace] adb/gComuCore: -Verbose [3069.677952s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912269634
+
+[Trace] adb/gComuCore: -Verbose [3069.678707s] SysTimestamp:1618912269634
+
+[Trace] adb/gComuCore: -Verbose [3069.678856s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3069.774203s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912269774
+
+[Trace] adb/gComuCore: -Verbose [3069.774784s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912269774
+
+[Trace] adb/gComuCore: -Verbose [3069.775316s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912269774
+
+[Trace] adb/gComuCore: -Verbose [3069.776217s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912269774
+
+[Trace] adb/gComuCore: -Verbose [3069.816647s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912269774
+
+[Trace] adb/gComuCore: -Verbose [3069.816872s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912269774
+
+[Trace] adb/gComuCore: -Verbose [3069.817756s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912269774
+
+[Trace] adb/gComuCore: -Verbose [3069.863748s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912269774
+
+[Trace] adb/gComuCore: -Verbose [3069.864091s] SysTimestamp:1618912269774
+
+[Trace] adb/gComuCore: -Verbose [3069.865748s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3069.918391s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912269918
+
+[Trace] adb/gComuCore: -Verbose [3069.947322s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912269918
+
+[Trace] adb/gComuCore: -Verbose [3069.948117s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912269918
+
+[Trace] adb/gComuCore: -Verbose [3069.949803s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912269918
+
+[Trace] adb/gComuCore: -Verbose [3069.950149s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912269918
+
+[Trace] adb/gComuCore: -Verbose [3069.950371s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912269918
+
+[Trace] adb/gComuCore: -Verbose [3069.996011s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912269918
+
+[Trace] adb/gComuCore: -Verbose [3069.997315s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912269918
+
+[Trace] adb/gComuCore: -Verbose [3069.997654s] SysTimestamp:1618912269918
+
+[Trace] adb/gComuCore: -Verbose [3069.997845s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3070.051948s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912270051
+
+[Trace] adb/gComuCore: -Verbose [3070.088310s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912270051
+
+[Trace] adb/gComuCore: -Verbose [3070.088595s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912270051
+
+[Trace] adb/gComuCore: -Verbose [3070.088790s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912270051
+
+[Trace] adb/gComuCore: -Verbose [3070.090594s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912270051
+
+[Trace] adb/gComuCore: -Verbose [3070.090834s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912270051
+
+[Trace] adb/gComuCore: -Verbose [3070.091067s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912270051
+
+[Trace] adb/gComuCore: -Verbose [3070.091331s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912270051
+
+[Trace] adb/gComuCore: -Verbose [3070.131325s] SysTimestamp:1618912270051
+
+[Trace] adb/gComuCore: -Verbose [3070.131523s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3070.183896s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912270183
+
+[Trace] adb/gComuCore: -Verbose [3070.184126s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912270183
+
+[Trace] adb/gComuCore: -Verbose [3070.184379s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912270183
+
+[Trace] adb/gComuCore: -Verbose [3070.185047s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912270183
+
+[Trace] adb/gComuCore: -Verbose [3070.185211s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912270183
+
+[Trace] adb/gComuCore: -Verbose [3070.185363s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912270183
+
+[Trace] adb/gComuCore: -Verbose [3070.185521s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912270183
+
+[Trace] adb/gComuCore: -Verbose [3070.224592s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912270183
+
+[Trace] adb/gComuCore: -Verbose [3070.224772s] SysTimestamp:1618912270183
+
+[Trace] adb/gComuCore: -Verbose [3070.225690s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3070.276683s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912270276
+
+[Trace] adb/gComuCore: -Verbose [3070.316478s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912270276
+
+[Trace] adb/gComuCore: -Verbose [3070.316702s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912270276
+
+[Trace] adb/gComuCore: -Verbose [3070.316899s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912270276
+
+[Trace] adb/gComuCore: -Verbose [3070.317821s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912270276
+
+[Trace] adb/gComuCore: -Verbose [3070.318431s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912270276
+
+[Trace] adb/gComuCore: -Verbose [3070.337337s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912270276
+
+[Trace] adb/gComuCore: -Verbose [3070.359138s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912270276
+
+[Trace] adb/gComuCore: -Verbose [3070.359809s] SysTimestamp:1618912270276
+
+[Trace] adb/gComuCore: -Verbose [3070.360533s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3070.458744s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912270458
+
+[Trace] adb/gComuCore: -Verbose [3070.458973s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912270458
+
+[Trace] adb/gComuCore: -Verbose [3070.459164s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912270458
+
+[Trace] adb/gComuCore: -Verbose [3070.459381s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912270458
+
+[Trace] adb/gComuCore: -Verbose [3070.501056s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912270458
+
+[Trace] adb/gComuCore: -Verbose [3070.501216s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912270458
+
+[Trace] adb/gComuCore: -Verbose [3070.501429s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912270458
+
+[Trace] adb/gComuCore: -Verbose [3070.502729s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912270458
+
+[Trace] adb/gComuCore: -Verbose [3070.502879s] SysTimestamp:1618912270458
+
+[Trace] adb/gComuCore: -Verbose [3070.503134s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3070.557739s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912270557
+
+[Trace] adb/gComuCore: -Verbose [3070.593603s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912270557
+
+[Trace] adb/gComuCore: -Verbose [3070.593825s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912270557
+
+[Trace] adb/gComuCore: -Verbose [3070.594129s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912270557
+
+[Trace] adb/gComuCore: -Verbose [3070.594468s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912270557
+
+[Trace] adb/gComuCore: -Verbose [3070.594648s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912270557
+
+[Trace] adb/gComuCore: -Verbose [3070.595903s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912270557
+
+[Trace] adb/gComuCore: -Verbose [3070.596117s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912270557
+
+[Trace] adb/gComuCore: -Verbose [3070.634763s] SysTimestamp:1618912270557
+
+[Trace] adb/gComuCore: -Verbose [3070.636291s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3070.687460s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912270687
+
+[Trace] adb/gComuCore: -Verbose [3070.729817s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912270687
+
+[Trace] adb/gComuCore: -Verbose [3070.729980s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912270687
+
+[Trace] adb/gComuCore: -Verbose [3070.730708s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912270687
+
+[Trace] adb/gComuCore: -Verbose [3070.731265s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912270687
+
+[Trace] adb/gComuCore: -Verbose [3070.731425s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912270687
+
+[Trace] adb/gComuCore: -Verbose [3070.731604s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912270687
+
+[Trace] adb/gComuCore: -Verbose [3070.731779s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912270687
+
+[Trace] adb/gComuCore: -Verbose [3070.769727s] SysTimestamp:1618912270687
+
+[Trace] adb/gComuCore: -Verbose [3070.769925s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3070.821516s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912270821
+
+[Trace] adb/gComuCore: -Verbose [3070.860546s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912270821
+
+[Trace] adb/gComuCore: -Verbose [3070.861388s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912270821
+
+[Trace] adb/gComuCore: -Verbose [3070.862099s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912270821
+
+[Trace] adb/gComuCore: -Verbose [3070.862350s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912270821
+
+[Trace] adb/gComuCore: -Verbose [3070.862558s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912270821
+
+[Trace] adb/gComuCore: -Verbose [3070.902447s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912270821
+
+[Trace] adb/gComuCore: -Verbose [3070.902684s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912270821
+
+[Trace] adb/gComuCore: -Verbose [3070.902891s] SysTimestamp:1618912270821
+
+[Trace] adb/gComuCore: -Verbose [3070.904163s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3070.999587s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912270999
+
+[Trace] adb/gComuCore: -Verbose [3071.029053s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912270999
+
+[Trace] adb/gComuCore: -Verbose [3071.029319s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912270999
+
+[Trace] adb/gComuCore: -Verbose [3071.029470s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912270999
+
+[Trace] adb/gComuCore: -Verbose [3071.030927s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912270999
+
+[Trace] adb/gComuCore: -Verbose [3071.031161s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912270999
+
+[Trace] adb/gComuCore: -Verbose [3071.031856s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912270999
+
+[Trace] adb/gComuCore: -Verbose [3071.073580s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912270999
+
+[Trace] adb/gComuCore: -Verbose [3071.074171s] SysTimestamp:1618912270999
+
+[Trace] adb/gComuCore: -Verbose [3071.075611s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3071.127298s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912271127
+
+[Trace] adb/gComuCore: -Verbose [3071.163695s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912271127
+
+[Trace] adb/gComuCore: -Verbose [3071.163940s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912271127
+
+[Trace] adb/gComuCore: -Verbose [3071.167024s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912271127
+
+[Trace] adb/gComuCore: -Verbose [3071.211425s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912271127
+
+[Trace] adb/gComuCore: -Verbose [3071.211842s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912271127
+
+[Trace] adb/gComuCore: -Verbose [3071.212836s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912271127
+
+[Trace] adb/gComuCore: -Verbose [3071.213405s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912271127
+
+[Trace] adb/gComuCore: -Verbose [3071.213643s] SysTimestamp:1618912271127
+
+[Trace] adb/gComuCore: -Verbose [3071.213805s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3071.264537s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912271264
+
+[Trace] adb/gComuCore: -Verbose [3071.300718s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912271264
+
+[Trace] adb/gComuCore: -Verbose [3071.300929s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912271264
+
+[Trace] adb/gComuCore: -Verbose [3071.301735s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912271264
+
+[Trace] adb/gComuCore: -Verbose [3071.301927s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912271264
+
+[Trace] adb/gComuCore: -Verbose [3071.302598s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912271264
+
+[Trace] adb/gComuCore: -Verbose [3071.302853s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912271264
+
+[Trace] adb/gComuCore: -Verbose [3071.303060s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912271264
+
+[Trace] adb/gComuCore: -Verbose [3071.346393s] SysTimestamp:1618912271264
+
+[Trace] adb/gComuCore: -Verbose [3071.346842s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3071.397891s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912271397
+
+[Trace] adb/gComuCore: -Verbose [3071.399288s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912271397
+
+[Trace] adb/gComuCore: -Verbose [3071.399745s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912271397
+
+[Trace] adb/gComuCore: -Verbose [3071.400061s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912271397
+
+[Trace] adb/gComuCore: -Verbose [3071.401111s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912271397
+
+[Trace] adb/gComuCore: -Verbose [3071.438756s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912271397
+
+[Trace] adb/gComuCore: -Verbose [3071.439007s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912271397
+
+[Trace] adb/gComuCore: -Verbose [3071.440415s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912271397
+
+[Trace] adb/gComuCore: -Verbose [3071.440681s] SysTimestamp:1618912271397
+
+[Trace] adb/gComuCore: -Verbose [3071.440810s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3071.536290s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912271536
+
+[Trace] adb/gComuCore: -Verbose [3071.536619s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912271536
+
+[Trace] adb/gComuCore: -Verbose [3071.536928s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912271536
+
+[Trace] adb/gComuCore: -Verbose [3071.537249s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912271536
+
+[Trace] adb/gComuCore: -Verbose [3071.537952s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912271536
+
+[Trace] adb/gComuCore: -Verbose [3071.578022s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912271536
+
+[Trace] adb/gComuCore: -Verbose [3071.578286s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912271536
+
+[Trace] adb/gComuCore: -Verbose [3071.579619s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912271536
+
+[Trace] adb/gComuCore: -Verbose [3071.582014s] SysTimestamp:1618912271536
+
+[Trace] adb/gComuCore: -Verbose [3071.582245s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3071.633162s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912271633
+
+[Trace] adb/gComuCore: -Verbose [3071.635723s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912271633
+
+[Trace] adb/gComuCore: -Verbose [3071.637482s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912271633
+
+[Trace] adb/gComuCore: -Verbose [3071.639358s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912271633
+
+[Trace] adb/gComuCore: -Verbose [3071.642090s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912271633
+
+[Trace] adb/gComuCore: -Verbose [3071.644443s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912271633
+
+[Trace] adb/gComuCore: -Verbose [3071.646508s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912271633
+
+[Trace] adb/gComuCore: -Verbose [3071.648799s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912271633
+
+[Trace] adb/gComuCore: -Verbose [3071.649783s] SysTimestamp:1618912271633
+
+[Trace] adb/gComuCore: -Verbose [3071.688438s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3071.740183s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912271740
+
+[Trace] adb/gComuCore: -Verbose [3071.777304s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912271740
+
+[Trace] adb/gComuCore: -Verbose [3071.778194s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912271740
+
+[Trace] adb/gComuCore: -Verbose [3071.820429s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912271740
+
+[Trace] adb/gComuCore: -Verbose [3071.820676s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912271740
+
+[Trace] adb/gComuCore: -Verbose [3071.821421s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912271740
+
+[Trace] adb/gComuCore: -Verbose [3071.822981s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912271740
+
+[Trace] adb/gComuCore: -Verbose [3071.862371s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912271740
+
+[Trace] adb/gComuCore: -Verbose [3071.862534s] SysTimestamp:1618912271740
+
+[Trace] adb/gComuCore: -Verbose [3071.863268s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3071.915164s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912271915
+
+[Trace] adb/gComuCore: -Verbose [3071.952670s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912271915
+
+[Trace] adb/gComuCore: -Verbose [3071.952871s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912271915
+
+[Trace] adb/gComuCore: -Verbose [3071.953059s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912271915
+
+[Trace] adb/gComuCore: -Verbose [3071.953779s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912271915
+
+[Trace] adb/gComuCore: -Verbose [3071.993881s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912271915
+
+[Trace] adb/gComuCore: -Verbose [3071.994347s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912271915
+
+[Trace] adb/gComuCore: -Verbose [3071.994818s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912271915
+
+[Trace] adb/gComuCore: -Verbose [3071.996112s] SysTimestamp:1618912271915
+
+[Trace] adb/gComuCore: -Verbose [3071.996319s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3072.046676s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912272046
+
+[Trace] adb/gComuCore: -Verbose [3072.087720s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912272046
+
+[Trace] adb/gComuCore: -Verbose [3072.087888s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912272046
+
+[Trace] adb/gComuCore: -Verbose [3072.088106s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912272046
+
+[Trace] adb/gComuCore: -Verbose [3072.089568s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912272046
+
+[Trace] adb/gComuCore: -Verbose [3072.124025s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912272046
+
+[Trace] adb/gComuCore: -Verbose [3072.130815s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912272046
+
+[Trace] adb/gComuCore: -Verbose [3072.131723s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912272046
+
+[Trace] adb/gComuCore: -Verbose [3072.132912s] SysTimestamp:1618912272046
+
+[Trace] adb/gComuCore: -Verbose [3072.133161s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3072.184168s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912272184
+
+[Trace] adb/gComuCore: -Verbose [3072.184645s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912272184
+
+[Trace] adb/gComuCore: -Verbose [3072.185855s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912272184
+
+[Trace] adb/gComuCore: -Verbose [3072.186466s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912272184
+
+[Trace] adb/gComuCore: -Verbose [3072.186647s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912272184
+
+[Trace] adb/gComuCore: -Verbose [3072.186879s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912272184
+
+[Trace] adb/gComuCore: -Verbose [3072.187061s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912272184
+
+[Trace] adb/gComuCore: -Verbose [3072.227225s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912272184
+
+[Trace] adb/gComuCore: -Verbose [3072.227616s] SysTimestamp:1618912272184
+
+[Trace] adb/gComuCore: -Verbose [3072.228181s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3072.280334s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912272280
+
+[Trace] adb/gComuCore: -Verbose [3072.314644s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912272280
+
+[Trace] adb/gComuCore: -Verbose [3072.314825s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912272280
+
+[Trace] adb/gComuCore: -Verbose [3072.316330s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912272280
+
+[Trace] adb/gComuCore: -Verbose [3072.316595s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912272280
+
+[Trace] adb/gComuCore: -Verbose [3072.361972s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912272280
+
+[Trace] adb/gComuCore: -Verbose [3072.362199s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912272280
+
+[Trace] adb/gComuCore: -Verbose [3072.362393s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912272280
+
+[Trace] adb/gComuCore: -Verbose [3072.363768s] SysTimestamp:1618912272280
+
+[Trace] adb/gComuCore: -Verbose [3072.364050s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3072.414558s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912272414
+
+[Trace] adb/gComuCore: -Verbose [3072.450594s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912272414
+
+[Trace] adb/gComuCore: -Verbose [3072.451604s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912272414
+
+[Trace] adb/gComuCore: -Verbose [3072.452606s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912272414
+
+[Trace] adb/gComuCore: -Verbose [3072.452809s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912272414
+
+[Trace] adb/gComuCore: -Verbose [3072.453010s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912272414
+
+[Trace] adb/gComuCore: -Verbose [3072.498327s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912272414
+
+[Trace] adb/gComuCore: -Verbose [3072.498600s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912272414
+
+[Trace] adb/gComuCore: -Verbose [3072.499354s] SysTimestamp:1618912272414
+
+[Trace] adb/gComuCore: -Verbose [3072.499948s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3072.551345s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912272551
+
+[Trace] adb/gComuCore: -Verbose [3072.568398s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912272551
+
+[Trace] adb/gComuCore: -Verbose [3072.582982s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912272551
+
+[Trace] adb/gComuCore: -Verbose [3072.583895s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912272551
+
+[Trace] adb/gComuCore: -Verbose [3072.584018s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912272551
+
+[Trace] adb/gComuCore: -Verbose [3072.584250s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912272551
+
+[Trace] adb/gComuCore: -Verbose [3072.627029s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912272551
+
+[Trace] adb/gComuCore: -Verbose [3072.627227s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912272551
+
+[Trace] adb/gComuCore: -Verbose [3072.627383s] SysTimestamp:1618912272551
+
+[Trace] adb/gComuCore: -Verbose [3072.628765s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3072.679526s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912272679
+
+[Trace] adb/gComuCore: -Verbose [3072.706286s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912272679
+
+[Trace] adb/gComuCore: -Verbose [3072.714785s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912272679
+
+[Trace] adb/gComuCore: -Verbose [3072.717158s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912272679
+
+[Trace] adb/gComuCore: -Verbose [3072.717740s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912272679
+
+[Trace] adb/gComuCore: -Verbose [3072.718389s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912272679
+
+[Trace] adb/gComuCore: -Verbose [3072.718914s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912272679
+
+[Trace] adb/gComuCore: -Verbose [3072.764954s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912272679
+
+[Trace] adb/gComuCore: -Verbose [3072.765294s] SysTimestamp:1618912272679
+
+[Trace] adb/gComuCore: -Verbose [3072.766553s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3072.818591s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912272818
+
+[Trace] adb/gComuCore: -Verbose [3072.847227s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912272818
+
+[Trace] adb/gComuCore: -Verbose [3072.847411s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912272818
+
+[Trace] adb/gComuCore: -Verbose [3072.848227s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912272818
+
+[Trace] adb/gComuCore: -Verbose [3072.848793s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912272818
+
+[Trace] adb/gComuCore: -Verbose [3072.849010s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912272818
+
+[Trace] adb/gComuCore: -Verbose [3072.849184s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912272818
+
+[Trace] adb/gComuCore: -Verbose [3072.892238s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912272818
+
+[Trace] adb/gComuCore: -Verbose [3072.892377s] SysTimestamp:1618912272818
+
+[Trace] adb/gComuCore: -Verbose [3072.893326s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3072.948497s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912272948
+
+[Trace] adb/gComuCore: -Verbose [3072.982158s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912272948
+
+[Trace] adb/gComuCore: -Verbose [3072.982562s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912272948
+
+[Trace] adb/gComuCore: -Verbose [3072.983347s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912272948
+
+[Trace] adb/gComuCore: -Verbose [3072.984069s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912272948
+
+[Trace] adb/gComuCore: -Verbose [3073.022103s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912272948
+
+[Trace] adb/gComuCore: -Verbose [3073.022952s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912272948
+
+[Trace] adb/gComuCore: -Verbose [3073.025371s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912272948
+
+[Trace] adb/gComuCore: -Verbose [3073.025822s] SysTimestamp:1618912272948
+
+[Trace] adb/gComuCore: -Verbose [3073.026483s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3073.120343s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912273120
+
+[Trace] adb/gComuCore: -Verbose [3073.121000s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912273120
+
+[Trace] adb/gComuCore: -Verbose [3073.121369s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912273120
+
+[Trace] adb/gComuCore: -Verbose [3073.122441s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912273120
+
+[Trace] adb/gComuCore: -Verbose [3073.161521s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912273120
+
+[Trace] adb/gComuCore: -Verbose [3073.161741s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912273120
+
+[Trace] adb/gComuCore: -Verbose [3073.161948s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912273120
+
+[Trace] adb/gComuCore: -Verbose [3073.163227s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912273120
+
+[Trace] adb/gComuCore: -Verbose [3073.163480s] SysTimestamp:1618912273120
+
+[Trace] adb/gComuCore: -Verbose [3073.163675s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3073.214407s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912273214
+
+[Trace] adb/gComuCore: -Verbose [3073.253397s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912273214
+
+[Trace] adb/gComuCore: -Verbose [3073.253614s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912273214
+
+[Trace] adb/gComuCore: -Verbose [3073.254461s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912273214
+
+[Trace] adb/gComuCore: -Verbose [3073.255089s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912273214
+
+[Trace] adb/gComuCore: -Verbose [3073.255350s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912273214
+
+[Trace] adb/gComuCore: -Verbose [3073.255525s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912273214
+
+[Trace] adb/gComuCore: -Verbose [3073.295627s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912273214
+
+[Trace] adb/gComuCore: -Verbose [3073.296043s] SysTimestamp:1618912273214
+
+[Trace] adb/gComuCore: -Verbose [3073.296374s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3073.348242s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912273348
+
+[Trace] adb/gComuCore: -Verbose [3073.354533s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912273348
+
+[Trace] adb/gComuCore: -Verbose [3073.386625s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912273348
+
+[Trace] adb/gComuCore: -Verbose [3073.387287s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912273348
+
+[Trace] adb/gComuCore: -Verbose [3073.387926s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912273348
+
+[Trace] adb/gComuCore: -Verbose [3073.425664s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912273348
+
+[Trace] adb/gComuCore: -Verbose [3073.425858s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912273348
+
+[Trace] adb/gComuCore: -Verbose [3073.426044s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912273348
+
+[Trace] adb/gComuCore: -Verbose [3073.427403s] SysTimestamp:1618912273348
+
+[Trace] adb/gComuCore: -Verbose [3073.468384s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3073.521641s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912273521
+
+[Trace] adb/gComuCore: -Verbose [3073.559424s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912273521
+
+[Trace] adb/gComuCore: -Verbose [3073.559634s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912273521
+
+[Trace] adb/gComuCore: -Verbose [3073.559844s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912273521
+
+[Trace] adb/gComuCore: -Verbose [3073.560056s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912273521
+
+[Trace] adb/gComuCore: -Verbose [3073.561312s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912273521
+
+[Trace] adb/gComuCore: -Verbose [3073.601126s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912273521
+
+[Trace] adb/gComuCore: -Verbose [3073.603993s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912273521
+
+[Trace] adb/gComuCore: -Verbose [3073.604919s] SysTimestamp:1618912273521
+
+[Trace] adb/gComuCore: -Verbose [3073.645248s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3073.695628s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912273695
+
+[Trace] adb/gComuCore: -Verbose [3073.697721s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912273695
+
+[Trace] adb/gComuCore: -Verbose [3073.700358s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912273695
+
+[Trace] adb/gComuCore: -Verbose [3073.700910s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912273695
+
+[Trace] adb/gComuCore: -Verbose [3073.705586s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912273695
+
+[Trace] adb/gComuCore: -Verbose [3073.739327s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912273695
+
+[Trace] adb/gComuCore: -Verbose [3073.740325s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912273695
+
+[Trace] adb/gComuCore: -Verbose [3073.741363s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912273695
+
+[Trace] adb/gComuCore: -Verbose [3073.741671s] SysTimestamp:1618912273695
+
+[Trace] adb/gComuCore: -Verbose [3073.741905s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3073.830015s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912273830
+
+[Trace] adb/gComuCore: -Verbose [3073.830314s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912273830
+
+[Trace] adb/gComuCore: -Verbose [3073.830558s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912273830
+
+[Trace] adb/gComuCore: -Verbose [3073.830701s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912273830
+
+[Trace] adb/gComuCore: -Verbose [3073.830939s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912273830
+
+[Trace] adb/gComuCore: -Verbose [3073.871627s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912273830
+
+[Trace] adb/gComuCore: -Verbose [3073.871746s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912273830
+
+[Trace] adb/gComuCore: -Verbose [3073.872244s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912273830
+
+[Trace] adb/gComuCore: -Verbose [3073.873213s] SysTimestamp:1618912273830
+
+[Trace] adb/gComuCore: -Verbose [3073.873640s] Timestamp--Chassis_Data_Speed:0  Chassis_Data_Ticks:0 Chassis_Data_Odom_Pose_xy:0 Chassis_Data_Odom_Euler_xy:0 Chassis_Data_Odom_Euler_z:0 Chassis_Data_Odom_Linevel_xy:0 Chassis_Data_Imu_Gyr:0  Chassis_Data_Imu_Acc:0  
+
+[Trace] adb/gComuCore: -Verbose [3073.924203s] timestamp err!,Chassis_Data_Speed timestamp detal:1618912273924
+
+[Trace] adb/gComuCore: -Verbose [3073.957275s] timestamp err!,Chassis_Data_Ticks timestamp detal:1618912273924
+
+[Trace] adb/gComuCore: -Verbose [3073.957469s] timestamp err!,Chassis_Data_Odom_Pose_xy timestamp detal:1618912273924
+
+[Trace] adb/gComuCore: -Verbose [3073.957720s] timestamp err!,Chassis_Data_Odom_Euler_xy timestamp detal:1618912273924
+
+[Trace] adb/gComuCore: -Verbose [3073.959021s] timestamp err!,Chassis_Data_Odom_Euler_z timestamp detal:1618912273924
+
+[Trace] adb/gComuCore: -Verbose [3073.959285s] timestamp err!,Chassis_Data_Odom_Linevel_xy timestamp detal:1618912273924
+
+[Trace] adb/gComuCore: -Verbose [3073.959525s] timestamp err!,Chassis_Data_Imu_Gyr timestamp detal:1618912273924
+
+[Trace] adb/gComuCore: -Verbose [3073.997842s] timestamp err!,Chassis_Data_Imu_Acc timestamp detal:1618912273924
+

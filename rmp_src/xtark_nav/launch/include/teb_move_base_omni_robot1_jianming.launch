@@ -1,0 +1,13 @@
+<launch>
+  <node pkg="move_base" type="move_base" respawn="true" name="move_base" output="screen" clear_params="false">
+    <rosparam file="$(find xtark_nav)/config/omni/param_jianming/costmap_common_params_robot1.yaml" command="load" ns="global_costmap" />
+    <rosparam file="$(find xtark_nav)/config/omni/param_jianming/costmap_common_params_robot1.yaml" command="load" ns="local_costmap" />
+    <rosparam file="$(find xtark_nav)/config/omni/param_jianming/local_costmap_params_robot1.yaml" command="load" />
+    <rosparam file="$(find xtark_nav)/config/omni/param_jianming/global_costmap_params_robot1.yaml" command="load" />
+    <rosparam file="$(find xtark_nav)/config/omni/param_jianming/base_global_planner_param_robot1.yaml" command="load" />
+
+    <rosparam file="$(find xtark_nav)/config/omni/param_jianming/teb_local_planner_params_robot1.yaml" command="load" />
+    <rosparam file="$(find xtark_nav)/config/omni/param_jianming/move_base_params_robot1.yaml" command="load" />
+  </node>
+  
+</launch>

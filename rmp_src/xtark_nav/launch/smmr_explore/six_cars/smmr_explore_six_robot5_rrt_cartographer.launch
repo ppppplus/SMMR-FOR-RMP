@@ -1,0 +1,61 @@
+<launch>
+  <arg name="robotname" value="robot5"/>
+  <arg name="eta" value="1.0"/>
+<group ns="robot5">  
+  <param name="/use_sim_time" value="false" />
+  <arg name="resolution" default="480p"/>
+	
+  <include file="$(find xtark_ros_wrapper)/launch/xtark_bringup_robot5_jianming.launch" >
+    <arg name="namespace" value="$(arg robotname)"/>
+  </include>
+
+  <node name="cartographer_node" pkg="cartographer_ros"
+      type="cartographer_node" args="
+          -configuration_directory $(find cartographer_ros)/configuration_files
+          -configuration_basename xtark_robot5_jianming.lua"
+      output="screen">
+    <remap from="scan" to="scan" />
+  </node>
+
+  <!-- 启动路径规划算法包 -->	
+	<include file="$(find xtark_nav)/launch/include/teb_move_base_omni_robot5_jianming.launch"/>
+    
+	<node pkg="xtark_nav" type="cartographer_node" name="cartographer2discrete" output="screen">
+    <!-- <remap from="map" to="cartographer_discrete_map"/> -->
+  </node>
+
+  <node name="cartographer_occupancy_grid_node" pkg="cartographer_ros"
+      type="cartographer_occupancy_grid_node" args="-resolution 0.05" >
+      <remap from="map" to="cartographer_discrete_map"/>
+  </node>
+
+  <include file="$(find xtark_ros_wrapper)/launch/xtark_mapping_multi_sim_pointnet.launch">
+    <arg name="weightspath" default="$(find xtark_ros_wrapper)/scripts/model_sparse.ckpt" />
+    <arg name="robotname" value="$(arg robotname)"/>
+  </include>
+</group>
+
+  <node pkg="rrt" type="rrt_node" name="$(arg robotname)_rrt" output="screen">
+    <param name="eta" value="$(arg eta)"/>
+    <param name="map_topic" value="$(arg robotname)/map"/>
+    <param name="costmap_topic" value="$(arg robotname)/move_base/global_costmap/costmap"/>
+    <param name="frontier_topic" value="$(arg robotname)/frontiers"/>
+    <param name="robot_frame" value="$(arg robotname)/map"/>
+    <param name="robot_base_frame" value="$(arg robotname)/base_footprint"/>
+    <param name="info_radius" value="1"/> 
+    <param name="costmap_pixel_threshold" value="0"/> 
+    <param name="namespace" value="$(arg robotname)"/> 
+    <param name="rate" value="100"/>
+
+    <param name="n_robot" value="6"/>
+    <param name="this_robot_idx" value="5"/>
+    <param name="robot_ano_frame_preffix" value="robot"/>
+    <param name="robot_ano_frame_suffix" value="/map"/>
+
+    <param name="trajectory_query_name" value="$(arg robotname)/trajectory_query"/>
+    <param name="output_file" value="$(find rrt)/data/$(arg robotname)_trajectory.txt"/>
+    <param name="output_map_file" value="$(find rrt)/data/$(arg robotname)_rrt_explored_map.txt"/>
+ </node>
+
+</launch>
+

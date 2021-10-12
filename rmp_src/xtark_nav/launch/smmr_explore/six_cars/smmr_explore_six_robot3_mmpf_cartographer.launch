@@ -1,0 +1,57 @@
+<launch>
+  <arg name="robotname" value="robot3"/>
+  <arg name="eta" value="1.0"/>
+<group ns="robot3">  
+  <param name="/use_sim_time" value="false" />
+  <arg name="resolution" default="480p"/>
+	
+  <include file="$(find xtark_ros_wrapper)/launch/xtark_bringup_robot3_jianming.launch" >
+    <arg name="namespace" value="$(arg robotname)"/>
+  </include>
+
+  <node name="cartographer_node" pkg="cartographer_ros"
+      type="cartographer_node" args="
+          -configuration_directory $(find cartographer_ros)/configuration_files
+          -configuration_basename xtark_robot3_jianming.lua"
+      output="screen">
+    <remap from="scan" to="scan" />
+  </node>
+
+  <!-- 启动路径规划算法包 -->	
+	<include file="$(find xtark_nav)/launch/include/teb_move_base_omni_robot3_jianming.launch"/>
+    
+	<node pkg="xtark_nav" type="cartographer_node" name="cartographer2discrete" output="screen">
+    <!-- <remap from="map" to="cartographer_discrete_map"/> -->
+  </node>
+
+  <node name="cartographer_occupancy_grid_node" pkg="cartographer_ros"
+      type="cartographer_occupancy_grid_node" args="-resolution 0.05" >
+      <remap from="map" to="cartographer_discrete_map"/>
+  </node>
+
+  <include file="$(find xtark_ros_wrapper)/launch/xtark_mapping_multi_sim_pointnet.launch">
+    <arg name="weightspath" default="$(find xtark_ros_wrapper)/scripts/model_sparse.ckpt" />
+    <arg name="robotname" value="$(arg robotname)"/>
+  </include>
+</group>
+
+  <node pkg="mmpf" type="mmpf_node" name="$(arg robotname)_mmpf" output="screen">
+    <param name="map_topic" value="$(arg robotname)/map"/>
+    <param name="costmap_topic" value="$(arg robotname)/move_base/global_costmap/costmap"/>
+    <param name="robot_base_frame" value="$(arg robotname)/base_footprint"/>
+    <param name="rate" value="1"/>
+    <param name="robot_frame" value="$(arg robotname)/map"/>
+    <param name="namespace" value="$(arg robotname)"/> 
+    
+    <param name="n_robot" value="6"/> 
+    <param name="this_robot_idx" value="3"/>
+    <param name="robot_ano_frame_preffix" value="robot"/>
+    <param name="robot_ano_frame_suffix" value="/base_footprint"/>
+    <param name="trajectory_query_name" value="$(arg robotname)/trajectory_query"/>
+    <param name="output_file" value="$(find mmpf)/data/$(arg robotname)_mmpf_trajectory.txt"/>
+    <param name="output_map_file" value="$(find mmpf)/data/$(arg robotname)_mmpf_explored_map.txt"/>
+  </node>
+
+
+</launch>
+

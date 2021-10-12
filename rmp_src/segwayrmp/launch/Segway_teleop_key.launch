@@ -1,0 +1,3 @@
+<launch>
+    <node name="Segway_teleop_key" pkg="segwayrmp" type="Segway_teleop_key" output="screen"/>
+</launch>
