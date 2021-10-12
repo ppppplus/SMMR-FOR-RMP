@@ -78,13 +78,19 @@
 
 ### 1. 
 
+- 从 <https://github.com/ppppplus/SMMR-FOR-RMP> 下载 src 到本地 ROS 工作空间中
+
+- 从 <https://cloud.tsinghua.edu.cn/d/27f3068d7bfb40ea85b7/> 下载权重文件，model_sparse.ckpt 放入 src/xtark_ros_wrapper/scripts 目录；另外将 src/third_packages/ORB_SLAM/Data/ORBvoc.txt.tar.gz 和 src/third_packages/ORB_SLAM2/Vocabulary/ORBvoc.txt.tar.gz 解压
+
+### 2.
+
 安装必要包
 
 ```shell
 ~$ sudo apt-get install ros-melodic-uuid-msgs ros-melodic-libuvc ros-melodic-unique-id
 ```
 
-### 2.
+### 3.
 
 关于 MongoDB的安装参照 src/third_packages/world_canvas/warehouse_ros_mongo/README.md
 
@@ -104,19 +110,21 @@
 ~$ sudo scons --prefix=/usr/local --full --use-system-boost --disable-warnings-as-errors
 ```
 
-### 3. 
+### 4. 
 
 devel/include 中的第三方包需要加入一些 h 文件，从<> 下载
 
-### 4.
+### 5.
 
 根据Segway RMP220 Setting Tutorial 配置 控制包
 
-### 5.
+### 6.
 
 ```shell
 ~$ catkin_make
 ```
+
+若有某些头文件找不到，可将项目中的 include/ 放入本地工作空间的 devel 目录下
 
 ### Debug
 
@@ -172,3 +180,7 @@ devel/include 中的第三方包需要加入一些 h 文件，从<> 下载
   ```
 
   
+
+## SMMR-FOR-CAR
+
+### 
